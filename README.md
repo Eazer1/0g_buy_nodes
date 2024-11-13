@@ -52,6 +52,7 @@ pip install -r requirements.txt
 | Tier-3  | 210  | 10 |
 | Tier-4  | 244  | 10 |
 | Tier-5  | 282  | 20  |
+Если вам нужна информация дальше, то вот [табличка](https://docs.google.com/spreadsheets/d/16dgdbrs0LA_mSSYB7cSEWmQPMJvok0FjqAHX-nLxEzs/edit?gid=2031834824#gid=2031834824)
 
 
 ### Учтите, что:
